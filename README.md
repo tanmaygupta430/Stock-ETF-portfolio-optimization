@@ -1,1 +1,1 @@
-# Stock-ETF-portfolio-optimization
+This repository contains the python file and the project files for stock ETF optimization in which I have created a script which takes in stock tickers and gives a combination of the total return and volatility of the portfolio. We are optimizing it by creating 25000 combinations of the stocks (by providing them random weights) and selecting the one which gives the highest sharpe ratio(highest returns with lowest volatility). 
